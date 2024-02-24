@@ -13,3 +13,6 @@ const persistence = (num) => {
 };
 
 console.log(persistence(8150898));
+
+console.log([2, 3, 4, 1, 12, 6, 2, 4].sort((a, b) => a - b));
+// a = 1 b = 2 Axb = 2 c = 3 BxC = 6 CxD = 12 d = 4
