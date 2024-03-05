@@ -11,4 +11,4 @@ const generateHashtag = (str) => {
   return `#${strArr}`;
 };
 
-console.log(generateHashtag(""));
+console.log(generateHashtag("zzz"));
